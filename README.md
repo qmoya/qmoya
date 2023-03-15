@@ -1,5 +1,7 @@
 ### Hi, I’m Quico!
 
-I’m a [TCA](https://github.com/pointfreeco/swift-composable-architecture) fanboy making apps for Apple’s gadgets.
+I’m a simplicity fanboy making apps for Apple’s gadgets.
+
+Long live server-side rendering.
 
 So much to learn, so little time!
