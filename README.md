@@ -1,3 +1,3 @@
 ### Hi, I’m Quico!
 
-Swift-hating Swift programmer. Long live server-side rendering.
+Swift-hating Swift programmer, closet Clojurian. Long live server-side rendering.
